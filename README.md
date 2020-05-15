@@ -6,11 +6,11 @@ This repository is the work of "_HDC-Net: Hierarchical Decoupled Convolution Net
 
 <center>Architecture of  HDC-Net</center>
 <div  align="center">  
- <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCnetwork.jpg"
+ <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDC_Net.jpg"
      align=center/>
 </div>
 <div  align="center">  
- <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDCblock.jpg"
+ <img src="https://github.com/luozhengrong/luozhengrong_test/blob/master/fig/HDC_block.jpg"
      align=center/>
 </div>
 
