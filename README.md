@@ -66,7 +66,11 @@ Then make a submission to the online evaluation server.
 
 If you use our code or model in your work or find it is helpful, please cite the paper:
 ```
-
+@ARTICLE{9103199, 
+title={HDC-Net: Hierarchical Decoupled Convolution Network for Brain Tumor Segmentation},
+author={Z. {Luo} and Z. {Jia} and Z. {Yuan} and J. {Peng}},
+journal={IEEE Journal of Biomedical and Health Informatics}, 
+year={2020}}
 ```
 
 ## Acknowledge
